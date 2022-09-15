@@ -1,0 +1,7 @@
+
+/.next/
+/out/
+/node_modules
+/.pnp
+.pnp.js
+.DS_Store
